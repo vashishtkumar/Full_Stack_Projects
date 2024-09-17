@@ -1,0 +1,33 @@
+[
+    {
+      "product_id": 1,
+      "title": "Wireless Headphones",
+      "price": 59.99,
+      "category": "Electronics"
+    },
+    {
+      "product_id": 2,
+      "title": "Running Shoes",
+      "price": 89.99,
+      "category": "Sports"
+    },
+    {
+      "product_id": 3,
+      "title": "Bluetooth Speaker",
+      "price": 29.99,
+      "category": "Electronics"
+    },
+    {
+      "product_id": 4,
+      "title": "Organic Cotton T-shirt",
+      "price": 19.99,
+      "category": "Clothing"
+    },
+    {
+      "product_id": 5,
+      "title": "Leather Wallet",
+      "price": 49.99,
+      "category": "Accessories"
+    }
+  ]
+  
